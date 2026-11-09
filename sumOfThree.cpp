@@ -9,6 +9,6 @@ int main(){
         cin>>list[i];
     }
 
-    
+    cout<< "IMPOSSIBLE";
     return 0;
 }
