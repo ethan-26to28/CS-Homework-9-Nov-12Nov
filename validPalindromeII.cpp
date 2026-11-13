@@ -36,7 +36,7 @@ bool pal(string st){
     return false;
 }
 
-int main(){
+/*int main(){
     string x;
     cin>> x;
     cout<< '\n';
@@ -48,4 +48,4 @@ int main(){
     cout<< '\n';
     return 0;
 
-}
+}*/
